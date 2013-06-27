@@ -83,4 +83,4 @@ Snap view可技術性避掉
 #Tools
 
 * Logo製造機 - <http://blogs.msdn.com/b/mengtsai/archive/2013/05/28/logo-windows-store-app-windows-phone-8-app.aspx>
-* Metro studio 2 - App bar button maker
+* Metro studio 2 - App bar button maker <http://www.syncfusion.com/downloads/metrostudio>
