@@ -4,7 +4,7 @@
 
 圖檔要根據不同解析度支援。
 
-參考Windows 8 and WP8 圖檔需求 - <http://gliyao.blogspot.tw/2013/03/windows-8-and-wp8.html>
+參考Windows 8 and WP8 圖檔需求 - <https://github.com/gliyao/Submit-an-App-to-Windows-Store/tree/master/Windows%208/Assets#image-size-map>
 
 ##應用程式名稱
 
