@@ -4,7 +4,9 @@
 
 圖檔要根據不同解析度支援。
 
-參考Windows 8 and WP8 圖檔需求 - <https://github.com/gliyao/Submit-an-App-to-Windows-Store/tree/master/Windows%208/Assets#image-size-map>
+參考Windows 8 and WP8 圖檔需求 -[Image Reqirement]
+
+[Image Reqirement]:https://github.com/gliyao/Submit-an-App-to-Windows-Store/tree/master/Windows%208/Assets#image-size-map
 
 ##應用程式名稱
 
@@ -55,7 +57,9 @@
     
 你用了哪些裝置能力，用在什麼地方都要描述，如果有存取某些資料（ex. FB friend list)，也要描述。
 
-參考Plog Privacy Policy - <https://dl.dropboxusercontent.com/u/3678868/Plog/PrivacyPolicy.htm>
+請參考[Plog Privacy Policy]
+
+[Plog Privacy Policy]:https://dl.dropboxusercontent.com/u/3678868/Plog/PrivacyPolicy.htm
 
 ###Support (Feedback)
 
@@ -64,7 +68,9 @@
 * google問卷
 * email
 
-參考Plog Pupport - <https://docs.google.com/spreadsheet/viewform?formkey=dHQzek83NDVOSHVYdjZkUzFsQ3l0c1E6MQ>
+請參考[Plog Pupport]
+
+[Plog Pupport]:https://docs.google.com/spreadsheet/viewform?formkey=dHQzek83NDVOSHVYdjZkUzFsQ3l0c1E6MQ
 
 ##測試人員注意事項
 
@@ -82,5 +88,10 @@ Snap view可技術性避掉
 
 #Tools
 
-* Logo製造機 - <http://blogs.msdn.com/b/mengtsai/archive/2013/05/28/logo-windows-store-app-windows-phone-8-app.aspx>
-* Metro studio 2 - App bar button maker <http://www.syncfusion.com/downloads/metrostudio>
+* [Logo製造機]
+* [Metro studio 2] - App bar button maker 
+
+
+
+[Logo製造機]:http://blogs.msdn.com/b/mengtsai/archive/2013/05/28/logo-windows-store-app-windows-phone-8-app.aspx
+[Metro studio 2]:http://www.syncfusion.com/downloads/metrostudio
